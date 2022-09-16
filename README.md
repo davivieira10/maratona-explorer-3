@@ -1,5 +1,5 @@
 ## <h1>Maratona Explorer 3</h1>
-<h2>Projeto desenvolvido junto com o Evento da da Rocketseat para praticar HTML5 e CSS3.</h2> 
+<h2>Projeto desenvolvido junto com o Evento da Rocketseat para praticar HTML5 e CSS3.</h2> 
 
 <img align="center" alt="Rocket Coffee" src="https://i.postimg.cc/brcqNyKG/projeto-rocketcoffee.png">
 
