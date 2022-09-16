@@ -1,7 +1,7 @@
 ## <h1>Maratona Explorer 3</h1>
-<h2>Projeto desenvolvido junto com o Evento da da Rocketseat para praticar HTML5 e CSS3</h2> 
+<h2>Projeto desenvolvido junto com o Evento da da Rocketseat para praticar HTML5 e CSS3.</h2> 
 
-[🔗Clique aqui para acessar o projeto]()
+[🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/maratona-explorer-3/)
 
 <b>As ferramentas utilizadas foram:</b>
 <div style="display: inline_block"><br>
